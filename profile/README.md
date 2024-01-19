@@ -1,7 +1,13 @@
 # Treemunchers Inc.
-## Quotes
+## Testimonies
 > We ***love*** munching trees
 - Sun Tzu (CFO, Investor)
+
+> I tripled my investment in this company in only a year!
+- Charles Ponzi (Board of directors chairman)
+
+> This is gonna be big!
+- Bernie Madoff (Dedicated fan)
 
 > mm.. yunmmey trees,..
 - tree guy (Mascot)
